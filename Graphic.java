@@ -1,5 +1,5 @@
-public class Graphics {
+public class Graphic {
 	public static void start() {
-		System.out.println("Graphics");
+		System.out.println("Graphic");
 	}
 }
